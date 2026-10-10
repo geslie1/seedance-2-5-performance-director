@@ -1,4 +1,4 @@
 interface:
   display_name: "Seedance 2.5 人物表演导演"
-  short_description: "将剧情转成有动机、有情绪层次、动作自然且时长可演的中文视频提示词"
+  short_description: "将剧情转成有动机、表情自然且时长可演的中文视频提示词，修复僵硬与情绪跳变"
   default_prompt: "使用 $seedance-2-5-performance-director，把我的剧情整理成动作自然、情绪细腻、时长可演的 Seedance 2.5 中文提示词。"
